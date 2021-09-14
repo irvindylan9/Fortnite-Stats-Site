@@ -15,6 +15,7 @@
 	// print_r( $playerStats );
 	// die();
 ?>
+
 <!DOCTYPE html>
 <html>
 	<head>
