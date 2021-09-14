@@ -14,7 +14,10 @@ $playerStats = getPlayerStats ($platform, $epicNickname);
 // echo '<pre>';
 // print_r( $playerStats );
 // die();
+
 ?>
+
+
 <!DOCTYPE html>
 <html>
     <head>
