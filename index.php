@@ -33,6 +33,7 @@ $playerStats = getPlayerStats ($platform, $epicNickname);
                 color: #fff;
                 padding: 10px;
             }
+        </style>
     </head>
     <body>
         <div style="margin-bottom:20px;font-size:48px";>
